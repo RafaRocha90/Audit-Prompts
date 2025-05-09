@@ -1,6 +1,11 @@
-# Prompt: Identificação de Padrões de Despesas Públicas
+# 🧠 Prompt: Identificação de Padrões de Despesas Públicas
 
-**Objetivo:** Analisar dados extraídos do Portal da Transparência e identificar padrões de despesas, variações atípicas e oportunidades de auditoria.
+**Objetivo**  
+Descrever o propósito do prompt em 1–2 frases.  
+Exemplo: Analisar dados extraídos do Portal da Transparência e identificar padrões de despesas, variações atípicas e oportunidades de auditoria.
+
+
+## 🧾 Prompt
 
 **Instrução para a IA:**
 
