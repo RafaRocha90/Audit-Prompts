@@ -1,0 +1,13 @@
+
+LOG DE EXECUÇÃO - 2025-05-09 20:28:05
+
+Arquivo de dados criado: despesas_publicas_simuladas.csv
+Total de registros: 5
+
+Colunas:
+- Órgão
+- Valor (R$)
+- Mês
+- Categoria
+
+Status: Concluído com sucesso.
